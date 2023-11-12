@@ -21,4 +21,4 @@ huang2023optimal,
 # Implementation
 
 To implement the EBUCB algorithm, run EBUCB.py <br />
-To implement the worst-case scenario (with only one bounded alpha-divergence), run worst_case.py
+To implement the algorithms in the worst-case scenarios (with only one bounded alpha-divergence), run worst_case.py
