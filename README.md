@@ -8,7 +8,7 @@ Paper link: https://arxiv.org/abs/2201.12955
 
 # Citation
 If you find this repository or the ideas presented in our paper useful, please consider citing the following:
-'''
+```
 @inproceedings{
 huang2023optimal,
   title={Optimal Regret Is Achievable with Bounded Approximate Inference Error: An Enhanced Bayesian Upper Confidence Bound Framework},
@@ -16,7 +16,7 @@ huang2023optimal,
   booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
   year={2023},
 }
-'''
+```
 
 # Implementation
 
