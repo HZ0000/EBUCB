@@ -1,6 +1,6 @@
 # Optimal Regret Is Achievable with Bounded Approximate Inference Error: An Enhanced Bayesian Upper Confidence Bound Framework
 
-This repository contains code pertaining to the NeurIPS 2023 paper
+This repository contains code related to the NeurIPS 2023 paper
 "Optimal Regret Is Achievable with Bounded Approximate Inference Error: An Enhanced Bayesian Upper Confidence Bound Framework" 
 by Ziyi Huang, Henry Lam, Amirhossein Meisami, and Haofeng Zhang. 
 
